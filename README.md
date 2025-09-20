@@ -49,9 +49,7 @@
    python analyze_and_forecast.py --city "Mumbai" --days 30 --forecast_days 7 --output report_output
    ```
 
-## GitHub upload
-- Create a new repository and push this project.
-- After pushing, put the repository URL into `create_pdf_template.md` (replace `GITHUB_REPO_URL_HERE`) and then convert to PDF (instructions in the template).
+
 
 ---
 Good luck! If you want, I can help you customize any part (DB schema, plots, models) or create a GitHub-ready README with badges.
